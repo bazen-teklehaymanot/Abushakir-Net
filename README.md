@@ -6,7 +6,7 @@ The words Bahire Hasab originate from the ancient language of Ge'ez, \( Arabic: 
 
 This package allows developers to implement Ethiopian Calendar and Datetime System in their application\(s\)\`.
 
-This package is implemented using the [UNIX EPOCH](https://en.wikipedia.org/wiki/Unix_time) which means it's not a conversion of any other calendar system into Ethiopian, for instance, Gregorian Calendar.
+This package is implemented using the [UNIX EPOCH](https://en.wikipedia.org/wiki/Unix_time), and it also contains a means of conversion into C# default DateTime system.
 
 Unix Epoch is measured using milliseconds since 01 Jan, 1970 UTC. In UNIX EPOCH leap seconds are ignored.
 
