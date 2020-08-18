@@ -11,11 +11,13 @@ This package is implemented using the [UNIX EPOCH](https://en.wikipedia.org/wiki
 Unix Epoch is measured using milliseconds since 01 Jan, 1970 UTC. In UNIX EPOCH leap seconds are ignored.
 
 ## Getting started
+```
 PM> Install-Package Abushakir-Net
-
+```
 ## Import it
 
 ## Example
+```
  new EthiopianDateTime(2012, 7, 7).ToString(); // 2012-07-07 00:00:00.000
  new EthiopianDateTime(1585731446021).ToString();// 2012-07-23 08:57:26.021
  new EthiopianDateTime(DateTime.Now); // intializes Ethioopian datetime object with the current date and time
@@ -24,7 +26,7 @@ PM> Install-Package Abushakir-Net
  
  var date = new EthiopianDateTime(1585731446021);
  date.ToDateTime(); // returns the DateTime equevalent for the EthiopianDateTime
- 
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nabute/AbushakirJs/blob/master/LICENSE) file for details
