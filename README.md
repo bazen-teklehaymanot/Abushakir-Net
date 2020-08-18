@@ -29,4 +29,4 @@ PM> Install-Package Abushakir-Net
 ```
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nabute/AbushakirJs/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/bazen-teklehaymanot/Abushakir-Net/blob/master/LICENSE.md) file for details
