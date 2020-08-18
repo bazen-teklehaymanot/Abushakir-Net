@@ -11,7 +11,7 @@ This package is implemented using the [UNIX EPOCH](https://en.wikipedia.org/wiki
 Unix Epoch is measured using milliseconds since 01 Jan, 1970 UTC. In UNIX EPOCH leap seconds are ignored.
 
 ## Getting started
-PM> Install-Package imobiledevice-net
+PM> Install-Package Abushakir-Net
 
 ## Import it
 
